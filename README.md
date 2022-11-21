@@ -13,4 +13,8 @@
     <td>Ademar Tenório</td>
     <td>Analista de Software Jr</td>
   </tr>
+  <tr>
+    <td>Adelino Lourenço</td>
+    <td>Analista de Software</td>
+  </tr>
 </table>
