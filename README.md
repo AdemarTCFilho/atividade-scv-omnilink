@@ -11,6 +11,6 @@
   </tr>
   <tr>
     <td>Ademar Tenório</td>
-    <td>Analista de Software Jr.</td>
+    <td>Analista de Software Jr</td>
   </tr>
 </table>
