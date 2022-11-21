@@ -17,4 +17,8 @@
     <td>Adelino Lourenço</td>
     <td>Analista de Software</td>
   </tr>
+    <td>Gilson Moraes</td>
+    <td>Designer UX UI</td>
+  </tr>
 </table>
+
